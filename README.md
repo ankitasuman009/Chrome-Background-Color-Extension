@@ -1,3 +1,9 @@
+![Blue Background](https://user-images.githubusercontent.com/55661555/126048780-f6c976a8-fb20-46ec-b014-c5a19761a247.png)
+
+
+I can also change the color and choose it from Extension options
+![Four color options](https://user-images.githubusercontent.com/55661555/126048807-06b6036b-1b22-4b0a-87a1-3eac1cf4be76.png)
+
 <<<<<<< HEAD
 # Chrome-Background-Color-Extension
 =======
